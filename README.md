@@ -15,3 +15,5 @@ Harris detection algorithm for corner detection and
 so on.
 
 All images are PGM.
+
+![alt tag](https://github.com/kosmaks/simple_cv/blob/master/screen.png?raw=true)
